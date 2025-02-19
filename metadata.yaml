@@ -1,0 +1,49 @@
+_repo: The-girlhood-of-Queen-Victoria-vol-1-of-2-b-A-selection-from-Her-Majesty-s-diaries-between-th__75138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Victoria, Queen of Great Britain
+    aliases:
+    - Alexandrina Victoria, Queen of Great Britain
+    - Britain, Victoria Queen of Great
+    birthdate: 1819
+    deathdate: 1901
+    gutenberg_agent_id: '9035'
+    url: http://www.gutenberg.org/2009/agents/9035
+    wikipedia: https://en.wikipedia.org/wiki/Queen_Victoria
+  editor:
+    agent_name: Esher, Reginald Baliol Brett, Viscount
+    aliases:
+    - Esher, Viscount Reginald Baliol Brett
+    - Brett, Reginald Baliol, Viscount Esher
+    - Esher, Reginald Baliol Brett, 2d Viscount
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '9036'
+    url: http://www.gutenberg.org/2009/agents/9036
+    wikipedia: https://en.wikipedia.org/wiki/Reginald_Brett%2C_2nd_Viscount_Esher
+description: ''
+gutenberg_issued: '2025-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75138'
+language: en
+pgterms:marc904: https://archive.org/details/girlhoodofqueenv01victuoft/page/n7/mode/2up
+pgterms:marc905: 20221121175847esher
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: Robert Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Sources'
+- !lcsh 'Europe -- Politics and government -- 1815-1848'
+- !lcc 'DA'
+- GITenberg
+title: 'The girlhood of Queen Victoria, vol. 1 (of 2) : $b A selection from Her Majesty''s
+  diaries between the years 1832 and 1840'
+url: http://www.gutenberg.org/ebooks/75138
